@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355100638427",
+    "project_id": "cryptosmilation",
+    "storage_bucket": "cryptosmilation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355100638427:android:07e0ecb61f91f4208520fe",
+        "android_client_info": {
+          "package_name": "com.farukenes.kryptosimilasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355100638427-sbv2h52d5cpimggt07rgm7kl7ki4d4o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCtFMKCQfJcOJq9Cyc_2OYnjBswgg8d7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355100638427-sbv2h52d5cpimggt07rgm7kl7ki4d4o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

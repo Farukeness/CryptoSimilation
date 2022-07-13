@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"> </item>
+
+    <item  android:id="@+id/piyasaFragments"
+        android:icon="@drawable/ic_graph"
+        android:title="Piyasa"> </item>
+
+    <item  android:id="@+id/tradeFragments"
+        android:icon="@drawable/ic_baseline_euro_24"
+        android:title="Trade"> </item>
+
+
+    <item  android:id="@+id/hesapFragments"
+        android:icon="@drawable/ic_baseline_portrait_24"
+        android:title="Hesap"> </item>
+</menu>

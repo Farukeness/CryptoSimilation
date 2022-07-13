@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/forsearchbox.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/homepage_heder.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_account_balance_24.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_auto_graph_24.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_business_center_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_euro_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_baseline_portrait_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_bos.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_btc.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_dolu.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_dolu2.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_exchange_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_graph.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_graph_line_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_home.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_home_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_line_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_money_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_search_svgrepo_com.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_trade2.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/ic_wallet.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/recycler_view_rounded.xml" value="0.33" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/rounded_corner.xml" value="0.2203125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/rounded_image_view.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/search_text.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/yuzdelik.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/drawable/yuzdelik_kirmizi.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/activity_main2.xml" value="0.153125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/activity_pop_up.xml" value="0.142578125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/activity_pop_up_window.xml" value="0.153125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/activity_popupwindow.xml" value="0.153125" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_hesap_fragments.xml" value="0.5" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_home_fragments.xml" value="0.33" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_loggin.xml" value="0.22" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_login.xml" value="0.16898148148148148" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_new_fragments.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_piyasa_fragments.xml" value="0.16" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/fragment_trade_fragments.xml" value="0.25" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/rounded_image_view.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/row_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/row_layout_cuzdan.xml" value="0.33" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/row_layout_favlist.xml" value="0.5" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/layout/row_layout_trader.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/menu/menuu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.165234375" />
+        <entry key="..\:/Users/Faruk Enes Zan/AndroidStudioProjects/KryptoSimilasyon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.165234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

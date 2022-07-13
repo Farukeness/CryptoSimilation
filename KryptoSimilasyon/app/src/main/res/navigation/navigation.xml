@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeFragments">
+
+
+
+    <fragment
+        android:id="@+id/hesapFragments"
+        android:name="com.farukenes.kryptosimilasyon.fragments.view.HesapFragments"
+        android:label="fragment_hesap_fragments"
+        tools:layout="@layout/fragment_hesap_fragments" >
+        <action
+            android:id="@+id/action_hesapFragments_to_logginFragment2"
+            app:destination="@id/logginFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/piyasaFragments"
+        android:name="com.farukenes.kryptosimilasyon.fragments.view.PiyasaFragments"
+        android:label="fragment_piyasa_fragments"
+        tools:layout="@layout/fragment_piyasa_fragments" >
+        <action
+            android:id="@+id/action_piyasaFragments_to_tradeFragments"
+            app:destination="@id/tradeFragments" />
+    </fragment>
+    <fragment
+        android:id="@+id/tradeFragments"
+        android:name="com.farukenes.kryptosimilasyon.fragments.view.TradeFragments"
+        android:label="fragment_trade_fragments"
+        tools:layout="@layout/fragment_trade_fragments" >
+        <argument
+            android:name="currency"
+            app:argType="string"
+            android:defaultValue="BTC" />
+        <argument
+            android:name="price"
+            app:argType="float"
+            android:defaultValue="63000.0" />
+        <argument
+            android:name="favKontrol"
+            app:argType="integer"
+            android:defaultValue="1" />
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragments"
+        android:name="com.farukenes.kryptosimilasyon.fragments.view.HomeFragments"
+        android:label="fragment_home_fragments"
+        tools:layout="@layout/fragment_home_fragments" />
+    <fragment
+        android:id="@+id/logginFragment"
+        android:name="com.farukenes.kryptosimilasyon.fragments.view.LogginFragment"
+        android:label="fragment_loggin"
+        tools:layout="@layout/fragment_loggin" >
+        <action
+            android:id="@+id/action_logginFragment_to_hesapFragments2"
+            app:destination="@id/hesapFragments" />
+    </fragment>
+</navigation>

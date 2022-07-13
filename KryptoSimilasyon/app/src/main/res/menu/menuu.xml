@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:id="@+id/homeFragments"
+        android:icon="@drawable/ic_home"
+        android:title="Anasayfa"> </item>
+
+    <item  android:id="@+id/piyasaFragments"
+        android:icon="@drawable/ic_graph_line_svgrepo_com"
+        android:title="Piyasa"> </item>
+
+    <item  android:id="@+id/tradeFragments"
+        android:icon="@drawable/ic_exchange_svgrepo_com"
+        android:title="Alım Satım"> </item>
+
+
+    <item  android:id="@+id/hesapFragments"
+        android:icon="@drawable/ic_wallet"
+        android:title="Cüzdan"> </item>
+</menu>
